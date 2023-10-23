@@ -15,7 +15,7 @@ car je désire éventuellement évoluer vers un contrat à durée indéterminée
   - collaboration avec 4 programmeurs dans un repository GitHub, révision de bug, révision et déploiement côté production avec Heroku. 🚀
 
 - **Formation UDEMY : Python** (09/2023 - 12/2023)
-  - Formation Python 2022 - Débutant à Expert 🐍 [Lien](https://lien-vers-la-formation)
+  - Formation Python 2022 - Débutant à Expert 🐍
   - Résumé : Formation complète en Python, allant des bases aux concepts avancés, travaux pratiques pour améliorer mes compétences, développement d'interfaces graphiques,
   - développement web, développement d'applications avec Python, maîtrise du développement de jeux. 🎓
 
