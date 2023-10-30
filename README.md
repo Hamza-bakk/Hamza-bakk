@@ -16,9 +16,14 @@ car je désire éventuellement évoluer vers un contrat à durée indéterminée
 
 - **Formation UDEMY : Python** (09/2023 - 12/2023)
   - Formation Python 2022 - Débutant à Expert 🐍
-  - Résumé : Formation complète en Python, allant des bases aux concepts avancés, travaux pratiques pour améliorer mes compétences, développement d'interfaces graphiques,
-  - développement web, développement d'applications avec Python, maîtrise du développement de jeux. 🎓
+  - Maîtrise de Python : Compétence complète en programmation Python, y compris la gestion de variables, les structures de contrôle, les fonctions, et les classes.
+  - Développement d'applications : Création d'applications logicielles en Python pour résoudre des problèmes et répondre à des besoins spécifiques.
+  - Manipulation de données : Travailler avec des variables, des opérations numériques, des chaînes de caractères, et des structures de données, comme les listes, les tuples, les ensembles et les dictionnaires.
+  - Modularité et Réutilisabilité : Utilisation de fonctions et de la programmation orientée objet pour créer un code modulaire et réutilisable.
+  - Intégration de bases de données : Interagir avec des bases de données, y compris la création, la lecture, la mise à jour et la suppression de données.
+  - Interfaces Graphiques et Jeux : Création d'interfaces utilisateur graphiques et développement de jeux en utilisant Python.
 
+Développement Web : Connaissance des frameworks web Python pour créer des applications web et des sites interactifs.
 ## Éducation
 - **Formation développeur web (Bac+2)**
   - The Hacking Project (Boot-camp)
@@ -31,7 +36,8 @@ car je désire éventuellement évoluer vers un contrat à durée indéterminée
 ## Compétences
 - Ruby On Rails 💎
 - HTML & CSS & SQL 🌐
-- Python & JavaScript (React) 🐍
+- Python (Back-end) (Django & Flask)
+- JavaScript (Front-end) (React) 🐍
 - Git & Github & Heroku 🧑‍💻
 - Linux 🐧
 - Figma & Pack Office 🖥️
