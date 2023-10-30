@@ -4,7 +4,7 @@
 ## À propos de moi
 Je suis un développeur web FullStack passionné par Python et JavaScript, avec une détermination à améliorer constamment mes compétences dans ces langages. 
 Mon objectif à court terme est de mettre en pratique ces compétences fraîchement acquises par le biais d'une formation. Je serai disponible du 8 janvier 2024 au 7er juin 2024 (6 mois)
-pour un stage non rémunéré, dans le but d'acquérir une expérience pratique au sein d'un environnement professionnel. Cependant, mon ambition va au-delà de cette étape, 
+pour un stage pratique, dans le but d'acquérir une expérience pratique au sein d'un environnement professionnel. Cependant, mon ambition va au-delà de cette étape, 
 car je désire éventuellement évoluer vers un contrat à durée indéterminée et continuer à apporter ma valeur ajoutée à une entreprise partageant ma vision d'excellence. ✨
 
 ## Expériences
