@@ -1,5 +1,5 @@
 # BAKKAR HAMZA 👨‍💻
-![Profile Image](www.linkedin.com/in/hamza-bakkar)
+
 
 ## À propos de moi
 Je suis un développeur web FullStack passionné par Python et JavaScript, avec une détermination à améliorer constamment mes compétences dans ces langages. 
