@@ -52,6 +52,5 @@ Développement Web : Connaissance des frameworks web Python pour créer des appl
 - Crypto & Blockchain 💰
 
 ## Contact
-- Téléphone : 07 68 09 07 95 ☎️
 - Email : bakkar.hamza92@gmail.com 📧
 - LinkedIn : (https://www.linkedin.com/in/hamza-bakkar) 👥
