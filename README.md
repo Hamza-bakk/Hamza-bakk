@@ -1,7 +1,7 @@
 # BAKKAR HAMZA 👨‍💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)
-![TechStacks](https://img.shields.io/badge/TechStacks.io-Profile-blueviolet)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-bakk&show_icons=true&theme=blueviolet)
 
 
 ## À propos de moi
