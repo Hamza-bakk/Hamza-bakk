@@ -1,13 +1,14 @@
 # BAKKAR HAMZA 👨‍💻
-
+![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)
 
 ## À propos de moi
-Je suis un développeur web FullStack passionné par Python et JavaScript, avec une détermination à améliorer constamment mes compétences dans ces langages. 
-Mon objectif à court terme est de mettre en pratique ces compétences fraîchement acquises par le biais d'une formation. Je serai disponible du 8 janvier 2024 au 7 juin 2024 (6 mois)
-pour un stage pratique, dans le but d'acquérir une expérience pratique au sein d'un environnement professionnel. Cependant, mon ambition va au-delà de cette étape, 
-car je désire éventuellement évoluer vers un contrat à durée indéterminée et continuer à apporter ma valeur ajoutée à une entreprise partageant ma vision d'excellence. ✨
+Développeur FullStack passionné par Python et JavaScript, je cherche activement un CDI à partir du 08/03/2024. Fort de mes compétences, je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
+
 
 ## Expériences
+- **STUDPRO** (01/2024 - 03/2024)
+- A venir
+
 - **THE HACKING PROJECT** (06/2023 - 12/2023)
   - Projet RUSTOFF - Graphiste Professionnel 🖌️
   - Résumé : Développement en Ruby on Rails, HTML, CSS, SQL, Python, JavaScript, gestion de projets avec Figma, gestion d'architecture MVC et POO en Ruby on Rails,
@@ -54,3 +55,5 @@ Développement Web : Connaissance des frameworks web Python pour créer des appl
 ## Contact
 - Email : bakkar.hamza92@gmail.com 📧
 - LinkedIn : (https://www.linkedin.com/in/hamza-bakkar) 👥
+
+  
