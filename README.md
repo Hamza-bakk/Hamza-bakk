@@ -1,5 +1,8 @@
 # BAKKAR HAMZA 👨‍💻
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)
+![TechStacks](https://img.shields.io/badge/TechStacks.io-Profile-blueviolet)
+
 
 ## À propos de moi
 Développeur FullStack passionné par Python et JavaScript, je cherche activement un CDI à partir du 08/03/2024. Fort de mes compétences, je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
