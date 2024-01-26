@@ -1,16 +1,19 @@
-# BAKKAR HAMZA 👨‍💻
+z# BAKKAR HAMZA 👨‍💻
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)
 ##![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-bakk&show_icons=true&theme=blueviolet)
 
 
 ## À propos de moi
-Développeur FullStack passionné par Python et JavaScript, je cherche activement un CDI à partir du 08/03/2024. Fort de mes compétences, je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
+Développeur FullStack passionné par Python et JavaScript, je cherche activement un CDI ou une alternance à partir du 08/03/2024. Fort de mes compétences, je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
 
 
 ## Expériences
 - **STUDPRO** (01/2024 - 03/2024)
-- A venir
+  - Participer à la mise en place de la partie frontend (Tailwind - CSS - Next.Js) et backend (Node.js)
+  - Travailler en mode agile (daily / spring planning / démo / rétrospective) (ClikUp - Figma - Miro) 
+  - Travailler sur l’optimisation du code (Gitlab).
+  - Participer et traiter les tests unitaires et fonctionnels (Javascript)
 
 - **THE HACKING PROJECT** (06/2023 - 12/2023)
   - Projet RUSTOFF - Graphiste Professionnel 🖌️
