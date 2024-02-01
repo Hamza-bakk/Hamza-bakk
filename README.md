@@ -30,7 +30,7 @@ Développeur FullStack passionné par Python et JavaScript, je cherche activemen
   - Intégration de bases de données : Interagir avec des bases de données, y compris la création, la lecture, la mise à jour et la suppression de données.
   - Interfaces Graphiques et Jeux : Création d'interfaces utilisateur graphiques et développement de jeux en utilisant Python.
 
-Développement Web : Connaissance des frameworks web Python pour créer des applications web et des sites interactifs.
+Développement Web : Connaissance des frameworks web Django - Flask pour créer des applications web et des sites interactifs.
 ## Éducation
 - **Formation développeur web (Bac+2)**
   - The Hacking Project (Boot-camp)
