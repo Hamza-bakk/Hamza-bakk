@@ -5,7 +5,7 @@
 
 
 ## À propos de moi
-Développeur FullStack passionné par Python et JavaScript, je cherche activement un CDI ou une alternance à partir du 08/03/2024. Fort de mes compétences, je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
+Développeur FullStack passionné par Python et JavaScript. je souhaite contribuer à une entreprise partageant ma vision d'excellence. Mon expérience pratique et ma détermination sont des atouts pour atteindre les objectifs de votre équipe. Prêt à m'investir pleinement, je suis ouvert aux opportunités permettant mon évolution professionnelle. Merci de considérer ma candidature. ✨
 
 
 ## Expériences
