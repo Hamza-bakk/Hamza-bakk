@@ -1,6 +1,6 @@
 # BAKKAR HAMZA 👨‍💻
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)-
+- ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-bakk&label=Profile+Views&color=blueviolet)
 - ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-bakk&show_icons=true&theme=blueviolet)
 
 
